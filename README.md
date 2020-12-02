@@ -1,2 +1,4 @@
-# MegaDadosProjeto2
-Lucão&amp;Pedrão Projeto2
+# Projeto 2 de Megadados
+
+Lucão & Pedrão Projeto2
+
